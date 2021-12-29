@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "13a7a33b-448c-424c-8c94-47daa90401c1": {
+      "ProjectGuid": "13a7a33b-448c-424c-8c94-47daa90401c1",
+      "DisplayName": "MyFirstAzureWebApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
